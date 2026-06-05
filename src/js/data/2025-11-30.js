@@ -423,134 +423,92 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Sticker Sheet",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/sticker_sheet.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Fishtank",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/fishtank.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Grilldorah",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/gr.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Weed Blunt",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/wb.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "The Nightcrawler",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/nc.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Host",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/h.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Bottle Cap",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/bc.png",
-    opts: {
-      stage: ["all"]
-    }
-  },
-  {
-    name: "Soda Can",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/sc.png",
-    opts: {
-      stage: ["all"]
-    }
-  },
-  {
-    name: "Dynamite's parents",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/prt.png",
-    opts: {
-      stage: ["all"]
-    }
-  },
-  {
-    name: "Gin",
-    img: "static.wixstatic.com/media/34e15c_53670808f3a74d5585a0873f92058b10~mv2.png",
-    opts: {
-      stage: ["all"]
-    }
-  },
-  {
-    name: "Gum's mom",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/gm.png",
-    opts: {
-      stage: ["all"]
-    }
-  },
-  {
-    name: "Drum",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/dr.png",
-    opts: {
-      stage: ["all"]
-    }
-  },
-  {
-    name: "Ribs",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/rb.png",
-    opts: {
-      stage: ["all"]
-    }
-  },
-  {
-    name: "Feather",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/f.png",
-    opts: {
-      stage: ["all"]
-    }
-  },
-  {
-    name: "Frozen Bottle",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/fb.png",
-    opts: {
-      stage: ["all"]
-    }
-  },
-  {
-    name: "Pilobolus",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/pl.png",
-    opts: {
-      stage: ["all"]
-    }
-  },
-  {
-    name: "Cobalt",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/cb.png",
-    opts: {
-      stage: ["all"]
-    }
-  },
-  {
-    name: "Daisy",
-    img: "static.wixstatic.com/media/34e15c_b3435d7acbac4003b0ce5c67d8236a60~mv2.png",
-    opts: {
-      stage: ["all"]
-    }
-  },
-  {
     name: "Tech",
     img: "static.wixstatic.com/media/34e15c_a9a2308290554c389106c191f14ed7cc~mv2.png",
+    opts: {
+      stage: ["all"]
+    }
+  },
+  {
+    name: "Honey",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/hn.png",
+    opts: {
+      stage: ["all"]
+    }
+  },
+  {
+    name: "Porkloin",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/pr.png",
+    opts: {
+      stage: ["all"]
+    }
+  },
+  {
+    name: "Fuzzball's stepdad",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/fd.png",
+    opts: {
+      stage: ["all"]
+    }
+  },
+  {
+    name: "Minty's mom",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/mm.png",
+    opts: {
+      stage: ["all"]
+    }
+  },
+  {
+    name: "Coffee Pot",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/cf.png",
+    opts: {
+      stage: ["all"]
+    }
+  },
+  {
+    name: "Wagyu's sisters",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/ws.png",
+    opts: {
+      stage: ["all"]
+    }
+  },
+  {
+    name: "Lawless King of Dread Tides",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/dt.png",
+    opts: {
+      stage: ["all"]
+    }
+  },
+  {
+    name: "Harebell",
+    img: "static.wixstatic.com/media/34e15c_1704399983ad4126b2b719674496ab4e~mv2.png",
+    opts: {
+      stage: ["all"]
+    }
+  },
+  {
+    name: "Calamondin",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/cl.png",
+    opts: {
+      stage: ["all"]
+    }
+  },
+  {
+    name: "Airplane",
+    img: "static.wixstatic.com/media/34e15c_db1076750b514c7a9864d33f030b4091~mv2.png",
+    opts: {
+      stage: ["all"]
+    }
+  },
+  {
+    name: "Frozen Boba",
+    img: "static.wixstatic.com/media/34e15c_e801cd348cc247b594d4e48d9fd26e4a~mv2.png",
+    opts: {
+      stage: ["all"]
+    }
+  },
+  {
+    name: "Glass Bead",
+    img: "static.wixstatic.com/media/34e15c_d370889e2dc6459c9b88707b5b9194cf~mv2.png",
     opts: {
       stage: ["all"]
     }
