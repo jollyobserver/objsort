@@ -311,48 +311,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Bic",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/b.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Warhammer",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/wh.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Turtleshell",
-    img: "static.wixstatic.com/media/34e15c_cfc854f51de94939a70a287b9a653376~mv2.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Rufus/Pluto",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/rp.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Piper",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/p.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Tigerlily",
-    opts: {
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/tl.png",
-      stage: ["mainplus"]
-    }
-  },
-  {
     name: "Bottle Cap",
     img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/bc.png",
     opts: {
