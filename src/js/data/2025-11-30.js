@@ -5,8 +5,7 @@ dataSet[dataSetVersion].options = [
   {
     name: "character filter",
     key: "stage",
-    tooltip: "Filters characters based on relevance. Character categories based entirely on Pluto's: https://trello.com/b/szfM8ZCu/objectified-guide. You can check multiple categories.",
-    checked: false,
+    tooltip: "hello i am a character filter"
     sub: [
       { name: "Main characters", key: "main" },
       { name: "Supporting characters", key: "mainplus" },
@@ -130,7 +129,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Maple Syrup",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/ms.png",
+    img: "github.com/jollyobserver/objsort/blob/main/src/assets/chars/ms.png",
     opts: {
       stage: ["mainplus"]
     }
