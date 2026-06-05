@@ -353,48 +353,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Morrigan",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/mr.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Wire-Wrap Tree",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/wirewrap.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Faux",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/fx.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Body Pillow",
-    img: "static.wixstatic.com/media/34e15c_03d3045d9c9b4dbfa932775d6e5ae3fd~mv2.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Water Timer",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/ww.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Jumper",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/jm.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
     name: "Bottle Cap",
     img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/bc.png",
     opts: {
