@@ -7,5 +7,6 @@ objectified character sorter lol
  * [SpinKit](http://tobiasahlin.com/spinkit/) for loading animation.
  * [thsort](http://mainyan.sakura.ne.jp/thsort.html) for the original inspiration.
 
-[charasort](https://github.com/execfera/charasort) was the base i used for this 
+[charasort](https://github.com/execfera/charasort) was the base i used for this
+
 assets from [the official Objectified website](https://www.objectifiedcomic.com) and [Pluto's lore guide](https://trello.com/b/szfM8ZCu/objectified-guide)
