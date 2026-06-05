@@ -5,7 +5,7 @@ dataSet[dataSetVersion].options = [
   {
     name: "character filter",
     key: "stage",
-    tooltip: "hello i am a character filter"
+    tooltip: "hello i am a character filter",
     checked: false,
     sub: [
       { name: "Main characters", key: "main" },
