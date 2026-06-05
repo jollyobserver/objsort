@@ -348,7 +348,7 @@ dataSet[dataSetVersion].characterData = [
   {
     name: "Tigerlily",
     opts: {
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/tl.png",
+    img: "i.ibb.co/N6BD3dXb/lily.png",
       stage: ["mainplus"]
     }
   },
