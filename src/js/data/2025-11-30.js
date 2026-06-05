@@ -143,176 +143,148 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Babs",
-    img: "static.wixstatic.com/media/34e15c_28ee0b7387fb448d9978f6d60bf02bae~mv2.png",
+    name: "Peanut Butter",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/peanut_butter.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Gil",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/g.png",
+    name: "Cone",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/cone.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Venus",
-    img: "static.wixstatic.com/media/34e15c_31485a9ff8f44949be632070de9cbf5d~mv2.png",
+    name: "Dagger",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/dagger.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Bic",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/b.png",
+    name: "Stylus",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/stylus.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Warhammer",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/wh.png",
+    name: "Palm Tree",
+    img: "static.wixstatic.com/media/34e15c_3a00e70db8084a2f9e3bc2eee003cd41~mv2.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Turtleshell",
-    img: "static.wixstatic.com/media/34e15c_cfc854f51de94939a70a287b9a653376~mv2.png",
+    name: "Sunny",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/stylus.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Rufus/Pluto",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/rp.png",
+    name: "Water Wiggler",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/water_wiggler.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Piper",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/p.png",
+    name: "Milkbone",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/milkbone.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Tigerlily",
-    opts: {
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/tl.png",
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Morrigan",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/mr.png",
+    name: "Cattail",
+    img: "static.wixstatic.com/media/34e15c_6fd3af861773452bb43e40fae4b7f86b~mv2.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Wire-Wrap Tree",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/wirewrap.png",
+    name: "Fuzzball's mom",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/fm.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Faux",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/fx.png",
+    name: "Packmother",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/pm.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Body Pillow",
-    img: "static.wixstatic.com/media/34e15c_03d3045d9c9b4dbfa932775d6e5ae3fd~mv2.png",
+    name: "Schick",
+    img: "static.wixstatic.com/media/34e15c_9ac7b52335c34f08907495fadb36b191~mv2.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Water Timer",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/ww.png",
+    name: "Harry",
+    img: "static.wixstatic.com/media/34e15c_5b991d68ddf741cfb5d51cc8b7080841~mv2.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Jumper",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/jm.png",
+    name: "Pana",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/pn.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Wick",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/wick.png",
+    name: "Dolly",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/dl.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Cherry",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/cn.png",
+    name: "Billie",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/bl.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Lava Lamp",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/lava_lamp.png",
+    name: "Malt",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/ml.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Wanda",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/wanda.png",
+    name: "Push",
+    img: "static.wixstatic.com/media/34e15c_ad1a5d4ca59847f5b6817673e24c9581~mv2.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Sticker Sheet",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/sticker_sheet.png",
+    name: "Carrot",
+    img: "static.wixstatic.com/media/34e15c_03fecd2fcfda4b2b8083e57eeb407061~mv2.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Fishtank",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/fishtank.png",
+    name: "Candy",
+    img: "static.wixstatic.com/media/34e15c_38163a8b10fd4ba996b347f41d06bdc1~mv2.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Grilldorah",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/gr.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Weed Blunt",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/wb.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "The Nightcrawler",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/nc.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Host",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/h.png",
+    name: "Phage",
+    img: "static.wixstatic.com/media/34e15c_cec4251460b24e3cb92e438aa857e479~mv2.png",
     opts: {
       stage: ["mainplus"]
     }
