@@ -129,78 +129,120 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Maple Syrup",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/ms.png",
+    name: "Fuzzball's mom",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/fm.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Ghost Pepper",
-    img: "static.wixstatic.com/media/34e15c_bc6c9ac5e69e4d04996c6c9928c5db0c~mv2.png",
+    name: "Packmother",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/pm.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Peanut Butter",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/peanut_butter.png",
+    name: "Schick",
+    img: "static.wixstatic.com/media/34e15c_9ac7b52335c34f08907495fadb36b191~mv2.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Cone",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/cone.png",
+    name: "Harry",
+    img: "static.wixstatic.com/media/34e15c_5b991d68ddf741cfb5d51cc8b7080841~mv2.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Dagger",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/dagger.png",
+    name: "Pana",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/pn.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Stylus",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/stylus.png",
+    name: "Dolly",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/dl.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Palm Tree",
-    img: "static.wixstatic.com/media/34e15c_3a00e70db8084a2f9e3bc2eee003cd41~mv2.png",
+    name: "Billie",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/bl.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Sunny",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/stylus.png",
+    name: "Malt",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/ml.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Water Wiggler",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/water_wiggler.png",
+    name: "Push",
+    img: "static.wixstatic.com/media/34e15c_ad1a5d4ca59847f5b6817673e24c9581~mv2.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Milkbone",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/milkbone.png",
+    name: "Carrot",
+    img: "static.wixstatic.com/media/34e15c_03fecd2fcfda4b2b8083e57eeb407061~mv2.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Cattail",
-    img: "static.wixstatic.com/media/34e15c_6fd3af861773452bb43e40fae4b7f86b~mv2.png",
+    name: "Candy",
+    img: "static.wixstatic.com/media/34e15c_38163a8b10fd4ba996b347f41d06bdc1~mv2.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Phage",
+    img: "static.wixstatic.com/media/34e15c_cec4251460b24e3cb92e438aa857e479~mv2.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Babs",
+    img: "static.wixstatic.com/media/34e15c_28ee0b7387fb448d9978f6d60bf02bae~mv2.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Gil",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/g.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Venus",
+    img: "static.wixstatic.com/media/34e15c_31485a9ff8f44949be632070de9cbf5d~mv2.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Bic",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/b.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Warhammer",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/wh.png",
     opts: {
       stage: ["mainplus"]
     }
