@@ -311,6 +311,146 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Bic",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/b.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Warhammer",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/wh.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Turtleshell",
+    img: "static.wixstatic.com/media/34e15c_cfc854f51de94939a70a287b9a653376~mv2.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Rufus/Pluto",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/rp.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Morrigan",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/mr.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Wire-Wrap Tree",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/wirewrap.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Faux",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/fx.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Body Pillow",
+    img: "static.wixstatic.com/media/34e15c_03d3045d9c9b4dbfa932775d6e5ae3fd~mv2.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Water Timer",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/ww.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Jumper",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/jm.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Wick",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/wick.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Cherry",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/cn.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Lava Lamp",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/lava_lamp.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Wanda",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/wanda.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Sticker Sheet",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/sticker_sheet.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Fishtank",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/fishtank.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Grilldorah",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/gr.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Weed Blunt",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/wb.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "The Nightcrawler",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/nc.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
+    name: "Host",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/h.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
     name: "Bottle Cap",
     img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/bc.png",
     opts: {
