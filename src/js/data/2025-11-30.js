@@ -339,6 +339,13 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Piper",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/p.png",
+    opts: {
+      stage: ["mainplus"]
+    }
+  },
+  {
     name: "Morrigan",
     img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/mr.png",
     opts: {
