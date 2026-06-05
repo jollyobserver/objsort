@@ -129,85 +129,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Fuzzball's mom",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/fm.png",
+    name: "Maple Syrup",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/ms.png",
     opts: {
       stage: ["mainplus"]
     }
   },
   {
-    name: "Packmother",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/pm.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Schick",
-    img: "static.wixstatic.com/media/34e15c_9ac7b52335c34f08907495fadb36b191~mv2.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Harry",
-    img: "static.wixstatic.com/media/34e15c_5b991d68ddf741cfb5d51cc8b7080841~mv2.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Pana",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/pn.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Dolly",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/dl.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Billie",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/bl.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Malt",
-    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/ml.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Push",
-    img: "static.wixstatic.com/media/34e15c_ad1a5d4ca59847f5b6817673e24c9581~mv2.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Carrot",
-    img: "static.wixstatic.com/media/34e15c_03fecd2fcfda4b2b8083e57eeb407061~mv2.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Candy",
-    img: "static.wixstatic.com/media/34e15c_38163a8b10fd4ba996b347f41d06bdc1~mv2.png",
-    opts: {
-      stage: ["mainplus"]
-    }
-  },
-  {
-    name: "Phage",
-    img: "static.wixstatic.com/media/34e15c_cec4251460b24e3cb92e438aa857e479~mv2.png",
+    name: "Ghost Pepper",
+    img: "static.wixstatic.com/media/34e15c_bc6c9ac5e69e4d04996c6c9928c5db0c~mv2.png",
     opts: {
       stage: ["mainplus"]
     }
